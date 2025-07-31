@@ -2,6 +2,9 @@
 
 Ce projet est un tableau de bord interactif créé avec Microsoft Excel. Il permet d’analyser un ensemble d’offres d’emploi dans le domaine de la data science.
 
+<img width="1885" height="682" alt="exel" src="https://github.com/user-attachments/assets/78b15cbc-8014-4497-904a-2504f3420c21" />
+
+
 ## 📁 Présentation du Projet
 
 L’objectif était de simuler une mission réelle : nettoyer une base de données d’offres d’emploi, en extraire les informations clés, puis créer un tableau de bord lisible et interactif pour la prise de décision.
