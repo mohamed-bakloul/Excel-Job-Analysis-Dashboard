@@ -1,6 +1,6 @@
 # Tableau de Bord des Offres d'Emploi en Data Science (Projet Excel)
 
-Ce projet est un tableau de bord interactif créé avec Microsoft Excel, réalisé en suivant le cours gratuit de Luke Barousse sur YouTube. Il permet d’analyser un ensemble d’offres d’emploi dans le domaine de la data science.
+Ce projet est un tableau de bord interactif créé avec Microsoft Excel. Il permet d’analyser un ensemble d’offres d’emploi dans le domaine de la data science.
 
 ## 📁 Présentation du Projet
 
@@ -41,13 +41,5 @@ L’objectif était de simuler une mission réelle : nettoyer une base de donné
 - Création de tableaux de bord professionnels
 - Visualisation des données pour prise de décision
 
-## 📂 Fichiers Inclus
-
-- `Donnees_Brutes.xlsx` – Données originales
-- `Donnees_Nettoyees.xlsx` – Données préparées pour l’analyse
-- `Dashboard.xlsx` – Tableau de bord final
-- `README.md` – Description du projet
-
 ---
 
-Projet réalisé à partir du tutoriel **Excel for Data Analytics** de Luke Barousse (YouTube).
